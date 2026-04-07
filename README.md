@@ -57,14 +57,21 @@ Previously managed development projects at XTM Digital and served as IT Manager 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IrvingSamuel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvingSamuel&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=IrvingSamuel&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IrvingSamuel&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrvingSamuel&theme=github_dark" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IrvingSamuel&theme=github_dark" height="160" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IrvingSamuel&theme=github_dark&utcOffset=-3" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrvingSamuel&theme=github_dark" height="160" />
 
 </div>
 
