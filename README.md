@@ -3,7 +3,7 @@
 # Irving Samuel
 ### Senior Backend Engineer · Full-Stack Developer · Technology Consultant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-irving.roadtovalhalla.com.br-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://irving.roadtovalhalla.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-irving.roadtovalhalla.com.br-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://irvingsamuel.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irving%20Samuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irvingsamuel)
 [![Location](https://img.shields.io/badge/Maceió,_AL-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
